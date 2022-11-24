@@ -1,0 +1,135 @@
+.section1-title{
+    color: #5863F8;
+    font-size: 14px;
+    margin: 82px 1111px 0 163px;
+}
+.section1-text{
+    color: #000000;
+    font-size: 42px;
+    width: 498px;
+    height: 115px;
+    margin: 1px 705px 50px 163px;
+    font-weight: bold;
+}
+.section-left-div{
+    width: 536px;
+    height: 190px;
+    display: inline-block;
+    vertical-align: middle;
+    background-color: #F8F8F8;
+    margin: 0 16px 102px 163px;
+}
+
+.section-right-div{
+    width: 536px;
+    height: 190px;
+    display: inline-block;
+    vertical-align: middle;
+    background-color: #BE2B2B;
+    margin: 0 115px 102px 0;
+}
+.section1-title1{
+    color: #5863F8;
+    font-size: 14px;
+    margin: 0 auto 0 16px;
+    letter-spacing: 2px;
+}
+.section1-title2{
+    color: #000000;
+    font-size: 18px;
+    margin: 0 auto 10px 16px;
+    line-height: 1.6;
+}
+.section1-text1{
+    color: #B1B1B1;
+    font-size: 14px;
+    width: 260px;
+    height: 63px;
+    margin: 0 auto 0 16px;
+    text-indent: 10px;
+}
+.left-div{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 36px 0 37px 0;
+    font-family: "Arial GEO Italic", sans-serif;
+}
+.right-div{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 36px 0 37px 0;
+    font-family: "BPG Boxo", sans-serif;
+}
+.section2-title{
+    color: #5863F8;
+    font-size: 14px;
+    margin: 0 1165px 0 163px;
+}
+.section2-text{
+    color: #000000;
+    font-size: 42px;
+    width: 498px;
+    height: 115px;
+    margin:0 738px 65px 163px;
+    font-weight: bold;
+}
+
+.food-img{
+    vertical-align: middle;
+}
+.desert-img{
+    vertical-align: middle;
+}
+.section2-div1{
+    display: inline-block;
+    vertical-align: top;
+    background-color: #F8F8F8;
+    margin: 0 16px 154px 163px;
+    padding: 0 0 23px 0;
+}
+.section2-div2{
+    display: inline-block;
+    vertical-align: top;
+    background-color: #F8F8F8;
+    margin: 0 16px 154px 0;
+    padding: 0 0 23px 0;
+}
+.section2-div3{
+    display: inline-block;
+    vertical-align: top;
+    background-color: #F8F8F8;
+    margin: 0 115px 154px 0;
+    padding: 0 0 23px 0;
+}
+.cook-and-life{
+    width: 352px;
+    text-align: center;
+}
+.cooking{
+    width: 352px;
+    text-align: center;
+}
+.fruits{
+    width: 352px;
+    text-align: center;
+}
+.section2-title1{
+    color: #5863F8;
+    font-size: 14px;
+    margin: 23px auto 5px auto;
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.section2-title2{
+    color: #000000;
+    font-size: 18px;
+    margin: 0 auto 10px auto;
+    font-family: 'Poppins', sans-serif;
+}
+.section2-text1{
+    color: #B1B1B1;
+    font-size: 14px;
+    margin: 0 46px;
+    font-family: 'Poppins';
+}
